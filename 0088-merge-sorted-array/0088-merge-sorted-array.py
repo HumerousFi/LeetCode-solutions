@@ -8,8 +8,6 @@ class Solution:
             if i <= n:
                 nums1.pop(m)
             i = i+1
-        print(nums1)
         for x in nums2:
             nums1.append(x)
         nums1.sort()
-        print(nums1)
