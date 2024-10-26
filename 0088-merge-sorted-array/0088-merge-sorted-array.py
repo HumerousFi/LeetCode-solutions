@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         i = 1
-        for elements in range(len(nums1)):
+        for index in range(len(nums1)):
             if i <= n:
                 nums1.pop(m)
             i = i+1
