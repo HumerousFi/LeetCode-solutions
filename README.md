@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1317-monthly-transactions-i) |
+| [1415-students-and-examinations](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1801-average-time-of-process-per-machine) |
