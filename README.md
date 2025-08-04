@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## String
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Greedy
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 <!---LeetCode Topics End-->
