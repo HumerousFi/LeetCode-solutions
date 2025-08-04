@@ -1,7 +1,7 @@
 class Solution:
     def convertTime(self, current: str, correct: str) -> int:
         steps = 0
-        print(current, correct)
+        # print(current, correct)
         current_hours = int(current[0])*10 + int(current[1])
         current_mins = int(current[3])*10 + int(current[4])
         correct_hours = int(correct[0])*10 + int(correct[1])
