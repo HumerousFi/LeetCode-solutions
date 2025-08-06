@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
