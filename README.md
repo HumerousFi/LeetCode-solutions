@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
 ## String
 |  |
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
