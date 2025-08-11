@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
+| [3379-score-of-a-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
