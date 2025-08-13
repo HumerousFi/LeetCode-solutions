@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3379-score-of-a-string) |
