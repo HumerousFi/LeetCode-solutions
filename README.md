@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3379-score-of-a-string) |
 ## Greedy
