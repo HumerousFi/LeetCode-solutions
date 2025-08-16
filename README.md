@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
@@ -110,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
