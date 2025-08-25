@@ -1,6 +1,5 @@
 class Solution:
     def largestOddNumber(self, num: str) -> str:
-        check = 0
         i = len(num) - 1
         while i != -1:
             print(num[i])
@@ -8,7 +7,4 @@ class Solution:
                 return num[:i+1]
             else:
                 i -= 1
-
-        if check == 0:
-            return ""
-        return str(check)
+        return ""
