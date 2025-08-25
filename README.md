@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2886-faulty-keyboard) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Recursion
 |  |
