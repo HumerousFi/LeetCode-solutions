@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2058-concatenation-of-array) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
