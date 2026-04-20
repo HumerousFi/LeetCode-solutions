@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0561-array-partition](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0561-array-partition) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1539-kth-missing-positive-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
