@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1854-maximum-population-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2058-concatenation-of-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
