@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
+| [1154-day-of-the-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1154-day-of-the-year) |
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1154-day-of-the-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1154-day-of-the-year) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
