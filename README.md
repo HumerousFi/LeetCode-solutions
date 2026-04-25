@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
