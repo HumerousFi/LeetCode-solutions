@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
+| [0728-self-dividing-numbers](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1154-day-of-the-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1154-day-of-the-year) |
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
