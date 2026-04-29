@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2058-concatenation-of-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
