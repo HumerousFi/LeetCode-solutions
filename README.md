@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Stack
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
