@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [3492-maximum-containers-on-a-ship](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 ## Stack
 |  |
 | ------- |
