@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [1854-maximum-population-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [3778-transform-array-by-parity](https://github.com/HumerousFi/LeetCode-solutions/tree/master/3778-transform-array-by-parity) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HumerousFi/LeetCode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1154-day-of-the-year](https://github.com/HumerousFi/LeetCode-solutions/tree/master/1154-day-of-the-year) |
 | [2032-largest-odd-number-in-string](https://github.com/HumerousFi/LeetCode-solutions/tree/master/2032-largest-odd-number-in-string) |
